@@ -1,6 +1,4 @@
-/*This class initialize a location object with an x and y corrdinates 
- * Student Name: Nour Fayadh
- * Student Id: 251205677 */
+/*This class initialize a location object with an x and y corrdinates  */
 
 
 public class Location {
