@@ -1,6 +1,4 @@
-/*This class initialize a BNode with a value, left and right child, and parent
- * Student Name: Nour Fayadh
- * Student Id: 251205677 */
+/*This class initialize a BNode with a value, left and right child, and parent*/
 
 public class BNode {
 	
