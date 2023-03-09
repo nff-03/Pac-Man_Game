@@ -1,6 +1,4 @@
-/*This class initialize a Pel object with a colour and location
- * Student Name: Nour Fayadh
- * Student Id: 251205677 */
+/*This class initialize a Pel object with a colour and location */
 
 public class Pel {
 	
