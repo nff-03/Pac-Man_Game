@@ -1,6 +1,4 @@
-/*This class initialize a MyObject with an id, width, type, pos, and tree
- * Student Name: Nour Fayadh
- * Student Id: 251205677 */
+/*This class initialize a MyObject with an id, width, type, pos, and tree */
 
 public class MyObject implements MyObjectADT {
 	
