@@ -1,6 +1,4 @@
-/*This class initialize a BinarySearchTree with a root of the tree
- * Student Name: Nour Fayadh
- * Student Id: 251205677 */
+/*This class initialize a BinarySearchTree with a root of the tree*/
 
 public class BinarySearchTree implements BinarySearchTreeADT {
 	
